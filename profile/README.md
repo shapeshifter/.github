@@ -1,7 +1,7 @@
 # Project Overview
 Shapeshifter implements the Universal Smart Energy Framework for flexibility forecasting, offering, ordering, and settlement processes. Additionally, ShapeShifter enables trading via DSO/TSO coordination platforms that also support the protocol.
 
-Shapeshifter enables the fastest, fairest, and lowest cost route to a smart energy future by delivering one common approach to efficiently connect smart energy projects and technologies. Its market structure, roles, rules and tools for the commoditization and trading of flexible energy usage work with existing and evolving energy markets.
+Shapeshifter enables a fast, fair, and low cost route to a smart energy future by delivering one common approach to efficiently connect smart energy projects and technologies. Its market structure, roles, rules and tools for the commoditization and trading of flexible energy usage work with existing and evolving energy markets.
 
 Shapeshifter focuses specifically on the exchange of flexibility between aggregators (AGRs) and distribution system operators (DSOs) or between aggregators and transmission system operations (TSOs). It describes the corresponding market interactions between them to resolve grid constraints by applying congestion management or grid capacity management.
 
