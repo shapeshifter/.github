@@ -1,10 +1,9 @@
-[Shapeshifter](https://lfenergy.org/projects/shapeshifter/) implements the Universal Smart Energy Framework for flexibility forecasting, offering, ordering, and
-settlement processes. Additionally, ShapeShifter enables trading via DSO/TSO coordination platforms that also support
-the protocol.
+[Shapeshifter](https://lfenergy.org/projects/shapeshifter/) is a REST/XML protocol that implements the Universal Smart Energy Framework for flexibility forecasting, offering, ordering, and
+settlement processes. Additionally, Shapeshifter enables trading via grid operator coordination platforms.
 
 # Project overview
 
-- [Specification + XSD](https://shapeshifter.github.io/shapeshifter-specification)
+- [Specification](https://shapeshifter.github.io/shapeshifter-specification)
 - [Java implementation](https://github.com/shapeshifter/shapeshifter-library-java)
 - [Technical Steering Committee meeting notes](https://github.com/shapeshifter/tsc)
 
